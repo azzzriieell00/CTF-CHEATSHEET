@@ -1,6 +1,6 @@
 # CTF-CHEATSHEET
 
-Professional CTF competition reference. Commands, payloads, and workflows for fast solving.
+ CTF competition reference. Commands, payloads, and workflows for fast solving.
 
 ## Categories
 
